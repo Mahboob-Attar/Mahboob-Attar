@@ -1,9 +1,5 @@
 <h1 align="center">Hey, it's Mahboob Attar 👋</h1>
 
-<h3 align="center">
-Software & AI Developer
-</h3>
-
 <p align="left">
 Final-year AI & Data Science student with hands-on experience in building 
 <strong>scalable, secure, and production-ready applications</strong>. 
