@@ -68,6 +68,9 @@
        height="25"
        alt="gmail logo" />
 </a>
+ <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow&style=for-the-badge" height="25"/>
+  </a>
 
 ###
 
