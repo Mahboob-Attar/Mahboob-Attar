@@ -1,7 +1,7 @@
 <h1 align="center">Hey, it's Mahboob Attar 👋</h1>
 
 <p align="center">
-Final-Year AI & Data Science Student | Software & AI Developer
+<h3>Software & AI Developer</h3>
 </p>
 
 <p align="left">
