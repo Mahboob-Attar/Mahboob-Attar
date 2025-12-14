@@ -1,7 +1,7 @@
 <h1 align="center">Hey, it's Mahboob Attar 👋</h1>
 
 <h3 align="center">
-<h3>Software & AI Developer</h3>
+Software & AI Developer
 </h3>
 
 <p align="left">
