@@ -1,4 +1,4 @@
-<h1 align="center">Hey, it's Mahboob Attar 👋</h1>
+<h1 align="center">Hey👋</h1>
 
 ###
 
