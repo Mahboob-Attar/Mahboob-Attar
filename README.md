@@ -1,17 +1,5 @@
 <h1 align="center">Hey, it's Mahboob Attar 👋</h1>
 
-<p align="left">
-Final-year AI & Data Science student with hands-on experience in building 
-<strong>scalable, secure, and production-ready applications</strong>. 
-Experienced in developing <strong>RESTful APIs</strong>, implementing 
-<strong>JWT-based authentication</strong>, and integrating 
-<strong>open-source LLM models</strong>. 
-Familiar with <strong>MLOps practices</strong> including model versioning, 
-pipeline-based training, and deployment workflows. 
-Proficient in <strong>Java, Python, Spring Boot, Flask, MySQL</strong>, 
-with a strong focus on clean architecture, system design, and real-world AI solutions.
-</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
