@@ -1,4 +1,25 @@
-<h1 align="center">Hey👋</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahboob-attar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mahboobattar78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahboob-Attar.Mahboob-Attar&"  />
+</div>
+
+###
+
+<h1 align="center">hey 👋 what's up guys</h1>
+
+###
+
+<p align="left">I'm Mahboob Attar ,<br>Final-Year AI & Data Science Student | Software & AI Developer<br>Passionate about building real-world applications using AI, Java, Python, and Web Technologies.</p>
 
 ###
 
@@ -27,6 +48,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
@@ -36,30 +63,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahboob-Attar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="98" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mahboob-Attar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahboob-Attar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahboob-attar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<a href="mailto:mahboobattar78@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-       height="25"
-       alt="gmail logo" />
-</a>
- <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow&style=for-the-badge" height="25"/>
-  </a>
-
-###
-
