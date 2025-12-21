@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Mahboob Attar ,<br>Final-Year AI & Data Science Student <br>Passionate about building real-world applications using AI, Java, Python, and Web Technologies.</p>
+<p align="left">Mahboob Attar ,<br>Final-Year AI & Data Science Student <br>Passionate about building real-world applications using AI, Java, Python, and Web Technologies.</p>
 
 ###
 
