@@ -12,7 +12,13 @@
   <a href="mailto:mahboobattar78@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="LeetCode" />
+  </a>
 </div>
+
 
 
 ###
