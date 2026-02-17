@@ -24,7 +24,7 @@
 ###
 
 <p align="left">
-  <strong>Mahboob Attar,</strong> AI & Data Science
+  <strong>Mahboob Attar,</strong> 
 </p>
 
 <p align="center">
