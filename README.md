@@ -38,7 +38,7 @@
 
 <p align="center">
   <strong>Building products, not just projects — turning “it’s impossible” into “it’s deployed.”</strong><br>
-  Code. Break. Fix. Repeat. Improve.
+  Code. Break. Fix. Repeat. Improve....
 </p>
 
 
