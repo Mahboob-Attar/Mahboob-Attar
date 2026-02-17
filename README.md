@@ -26,6 +26,7 @@
 <p align="left">Mahboob Attar ,AI & Data Science <br><br>
 Passionate about building real-world applications using AI, Java, Python, and modern web technologies.<br> Dedicated to solving real-world problems through innovative and scalable solutions. Interested in developing new features, improving system performance, and creating impactful software products .../p><br><br>
 <p alighn="centre">Building products, not just projects — turning “it’s impossible” into “it’s deployed.” Code. Break. Fix. Repeat. Improve.</p>
+
 ###
 
 <h3 align="left">  Tech Stack</h3>
