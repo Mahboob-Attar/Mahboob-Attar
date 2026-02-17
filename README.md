@@ -23,7 +23,8 @@
 
 ###
 
-<p align="left">Mahboob Attar ,<br>Final-Year AI & Data Science Student <br>Passionate about building real-world applications using AI, Java, Python, and Web Technologies.</p>
+<p align="left">Mahboob Attar ,AI & Data Science <br>
+Passionate about building real-world applications using AI, Java, Python, and modern web technologies. Dedicated to solving real-world problems through innovative and scalable solutions. Interested in developing new features, improving system performance, and creating impactful software products. Strong focus on continuous learning, clean code practices, and delivering professional, high-quality applications..</p>
 
 ###
 
