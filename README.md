@@ -8,14 +8,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:mahboobattar78@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="LeetCode" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/mahboob_attar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodeChef" />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Mahboob-Attar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F1F1F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codeforces" />
   </a>
 </div>
 
