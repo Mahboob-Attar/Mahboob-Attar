@@ -3,17 +3,12 @@
 ###
 
 <div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mahboob-attar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="LeetCode" />
   </a>
 
-  <!-- CodeChef -->
 <!-- CodeChef -->
 <a href="https://www.codechef.com/users/mahboob_attar" target="_blank">
   <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
