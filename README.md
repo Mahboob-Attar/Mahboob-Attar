@@ -14,9 +14,10 @@
   </a>
 
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/mahboob_attar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodeChef" />
-  </a>
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/mahboob_attar" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
+</a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Mahboob-Attar" target="_blank">
