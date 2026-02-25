@@ -22,7 +22,8 @@
   <!-- Codeforces -->
 <!-- Codeforces -->
 <a href="https://codeforces.com/profile/mahboob_attar" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2F2F2F&logoColor=white&style=for-the-badge" height="25" />
+ <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F1F1F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codeforces" />
+  </a>
 </a>
 </div>
 
