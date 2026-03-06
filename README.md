@@ -32,7 +32,6 @@
   Code. Break. Fix. Repeat. Improve....
 </p>
 
-
 ###
 
 <h3 align="left">  Tech Stack</h3>
