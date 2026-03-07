@@ -1,25 +1,21 @@
 <h1 align="center">hey 👋 what's up!</h1>
 
 ###
-
+<!--
 <div align="center">
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/mahboob-attar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="28" />
-  </a>
+  </a> 
 
-  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/mahboob_attar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/mahboob_attar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2962FF&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
-
-
+-->
 
 ###
 
