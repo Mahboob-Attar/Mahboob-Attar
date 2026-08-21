@@ -1,4 +1,4 @@
-<h1 align="center">hey 👋 what's up!</h1>
+<h1 align="center">hey!</h1>
 
 ###
 <!--
@@ -30,9 +30,9 @@
 
 ###
 
-<h3 align="left">  Tech Stack</h3>
+<!-- <h3 align="left">  Tech Stack</h3>
 
-###
+### -->
 
 <div align="center">
   
@@ -75,9 +75,9 @@
 
 ###
 
-<h3 align="left">  My Stats :</h3>
+<!-- <h3 align="left">  My Stats :</h3>
 
-###
+### -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahboob-Attar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
