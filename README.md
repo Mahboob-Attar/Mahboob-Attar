@@ -19,7 +19,7 @@
 
 ###
 
-<p align="centre"
+<p align="left"
   <strong>Mahboob Attar,</strong> 
 </p>
 
