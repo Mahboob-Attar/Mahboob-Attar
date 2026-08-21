@@ -1,4 +1,4 @@
-<h1 align="center">hey!</h1>
+<h1 align="left">hey!</h1>
 
 ###
 <!--
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">
+<p align="centre">
   <strong>Mahboob Attar,</strong> 
 </p>
 
